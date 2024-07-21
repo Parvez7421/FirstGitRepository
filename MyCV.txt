@@ -1,1 +1,2 @@
 name ::parvez Ahmed
+Skill:: java,xml,json,mysql,oython,html,css,js
